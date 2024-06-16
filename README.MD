@@ -1,2 +1,2 @@
-this is a git and github class 
+this is a git and github class. 
 
